@@ -2,7 +2,7 @@
 
 rm -f ./install || true
 
-GITHUB_TOKEN="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"
+GITHUB_TOKEN="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"
 
 menu="https://raw.githubusercontent.com/hahacrunchyrollls/amber-installer/refs/heads/main/menu"
 websocket="https://raw.githubusercontent.com/hahacrunchyrollls/amber-installer/refs/heads/main/websocket"
