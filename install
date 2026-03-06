@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm -f ./install.sh || true
+rm -f ./install || true
 
 GITHUB_TOKEN="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"
 
