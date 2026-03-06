@@ -4,8 +4,8 @@ rm -f ./install || true
 
 GITHUB_TOKEN="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"
 
-menu="https://raw.githubusercontent.com/hahacrunchyrollls/amber-installer/refs/heads/main/menu"
-websocket="https://raw.githubusercontent.com/hahacrunchyrollls/amber-installer/refs/heads/main/websocket"
+menu="https://raw.githubusercontent.com/noelrubio143/my-dnstt/refs/heads/main/dnstt?token=GHSAT0AAAAAADW7BZFW2NV7VH5A7AFI2V5K2NLLSHQ"
+websocket="https://raw.githubusercontent.com/noelrubio143/my-dnstt/refs/heads/main/dnstt?token=GHSAT0AAAAAADW7BZFW2NV7VH5A7AFI2V5K2NLLSHQ"
 
 #BASHRC="/root/.bashrc"
 
