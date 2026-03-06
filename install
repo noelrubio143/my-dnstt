@@ -4,7 +4,7 @@ rm -f ./install || true
 
 GITHUB_TOKEN="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"
 
-menu="https://raw.githubusercontent.com/noelrubio143/my-dnstt/refs/heads/main/dnstt?token=GHSAT0AAAAAADW7BZFW2NV7VH5A7AFI2V5K2NLLSHQ"
+menu="https://raw.githubusercontent.com/noelrubio143/my-dnstt/refs/heads/main/ssh?token=GHSAT0AAAAAADW7BZFX2SBHI5WKQL7ITSH22NLLVDQQ"
 websocket="https://raw.githubusercontent.com/noelrubio143/my-dnstt/refs/heads/main/dnstt?token=GHSAT0AAAAAADW7BZFW2NV7VH5A7AFI2V5K2NLLSHQ"
 
 #BASHRC="/root/.bashrc"
