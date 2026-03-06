@@ -2,4 +2,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/noelrubio143/my-dnstt/refs/hea
 
 bash <(curl -Ls https://raw.githubusercontent.com/noelrubio143/my-dnstt/refs/heads/main/squid?token=GHSAT0AAAAAADW7BZFWY25AVBNAZZQPKGAQ2NLL5IQ)
 
-bas <(curl -Ls https://raw.githubusercontent.com/noelrubio143/my-dnstt/refs/heads/main/dnstt?token=GHSAT0AAAAAADW7BZFXAE4EDBDPUW666GXS2NLL6SA)
+bash <(curl -Ls https://raw.githubusercontent.com/noelrubio143/my-dnstt/refs/heads/main/dnstt?token=GHSAT0AAAAAADW7BZFWHNXGHCL6URTFS2DY2NLMA5A)
