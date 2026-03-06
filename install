@@ -4,8 +4,8 @@ rm -f ./install || true
 
 GITHUB_TOKEN="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"
 
-menu="https://raw.githubusercontent.com/noelrubio143/my-dnstt/refs/heads/main/ssh?token=GHSAT0AAAAAADW7BZFX2SBHI5WKQL7ITSH22NLLVDQQ"
-websocket="https://raw.githubusercontent.com/noelrubio143/my-dnstt/refs/heads/main/dnstt?token=GHSAT0AAAAAADW7BZFW2NV7VH5A7AFI2V5K2NLLSHQ"
+ssh="https://raw.githubusercontent.com/noelrubio143/my-dnstt/refs/heads/main/ssh?token=GHSAT0AAAAAADW7BZFX2SBHI5WKQL7ITSH22NLLVDQQ"
+dnstt="https://raw.githubusercontent.com/noelrubio143/my-dnstt/refs/heads/main/dnstt?token=GHSAT0AAAAAADW7BZFW2NV7VH5A7AFI2V5K2NLLSHQ"
 
 #BASHRC="/root/.bashrc"
 
@@ -23,8 +23,8 @@ echo -e "  INSTALLING WEBSOCKET"
 echo -e "╚═════════════════════════════════╝"
 echo -e "$NC"
 curl -skLO -H "Authorization: token $GITHUB_TOKEN" -H "Accept: application/vnd.github.v3.raw" "$websocket"
-chmod +x websocket || true
-./websocket || true
+chmod +x dnstt || true
+./dnstt || true
 
 clear
 echo -e "$GREEN"
@@ -33,8 +33,8 @@ echo -e "       DOWNLOADING MENU"
 echo -e "╚═════════════════════════════════╝"
 echo -e "$NC"
 curl -skLO -H "Authorization: token $GITHUB_TOKEN" -H "Accept: application/vnd.github.v3.raw" "$menu"
-chmod +x menu || true
-mv menu /usr/bin/menu || true
+chmod +x ssh || true
+mv menu /usr/bin/ssh || true
 
 clear
 echo -e "$GREEN"
